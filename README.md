@@ -1,2 +1,0 @@
-# IllustraAi
-Illustra ai
